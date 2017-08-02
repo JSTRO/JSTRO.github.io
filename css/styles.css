@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Pt+Serif');
+@import url('http://fonts.googleapis.com/css?family=PT+Serif:400italic,400,700italic,700');
 @import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight:700');   
 
 body {
@@ -52,7 +52,7 @@ a {
 
 p {
   padding-bottom: 0px;
-  text-align: justify;
+  text-align: left;
 }
 
 .jumbotron, h3, h2, .text-muted {
@@ -65,6 +65,7 @@ p {
   background-color: white;
   padding-bottom: 0px;
 }
+
 
 i {
   transition: all 0.3s ease;
@@ -83,8 +84,8 @@ i {
 }
 
 footer {
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
   padding-top: 30px;
   text-align: center;
 }
