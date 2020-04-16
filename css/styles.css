@@ -1,4 +1,3 @@
-@import url('http://fonts.googleapis.com/css?family=PT+Serif:400italic,400,700italic,700');
 @import url('https://fonts.googleapis.com/css?family=Zilla+Slab+Highlight:700');   
 
 body {
@@ -40,6 +39,7 @@ body {
 h1 {
   font-family: 'Zilla Slab Highlight';
   font-size: 72px;
+  font-display: swap;
 }
 
 h2 {
@@ -67,16 +67,17 @@ a {
 }
 
 .a-gold, .a-gold:hover {
-  color: rgb(233, 188, 63);
+  color: rgb(204, 153, 0);
 }
 
 .a-gray, .a-gray:hover {
-  color: rgb(82, 82, 82);
+  color: rgb(115, 115, 115);
 }
 
 p {
   font-size: 20px;
   text-align: left;
+  font-display: swap;
 }
 
 i {
